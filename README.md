@@ -1,4 +1,4 @@
-# TODO list automted testing
+# TODO list automated testing
 
 Automated testing fo the TODO list webpage for an interview
 
